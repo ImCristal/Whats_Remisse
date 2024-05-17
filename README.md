@@ -1,6 +1,6 @@
-# whats_remisse
+# WhatsRemisse 🚖🚖
 
-A new Flutter project.
+Una aplicación peruana que conecta a los PROVEEDORES taxistas con los CONDUCTORES, generando una red de interna entre líneas de taxis para mejorar la productividad en el trabajo y conseguir viajes más rápido. Una aplicación idealizada con André Baldedón Andía y programada por Jeanpool Ferrer (Cristal) usando Dart y Flutter.
 
 ## Getting Started
 
